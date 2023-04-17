@@ -16,7 +16,7 @@ import { UsersController } from './users/users.controller';
       host: 'localhost',
       port: 3306,
       username: 'root',
-      password: '208511951@Oz',
+      password: 'password',
       database: 'nestdb',
       entities: [__dirname + '/**/*.entity{.ts,.js}'],
       synchronize: true,
